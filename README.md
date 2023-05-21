@@ -6,7 +6,7 @@ To use the SSRT shader in Blender Eevee, follow these steps:
 
 1. Launch Blender and initiate a new project.
 2. Proceed to the "File" menu and choose the "Append" option.
-2. Choose one of the .blend files provided in this [link](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon).
+2. Choose one of the .blend files provided in this [link](https://github.com/PedroPLopes1/SSRT/tree/main/Shader).
 3. Inside the file browser, open the "NodeTree" directory.
 4. Identify the "Principled BSDF SSRT" option and select it.
 5. Finalize the process by clicking the "Append" button.
