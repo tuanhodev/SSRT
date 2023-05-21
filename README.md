@@ -15,7 +15,7 @@ To use the SSRT shader in Blender Eevee, follow these steps:
 The SSRT shader can be used to create more realistic reflections and lighting in real-time in Blender Eevee. It works by simulating light bouncing using screen space data, which allows for more accurate reflections and lighting than traditional methods.
 
 To use the SSRT shader effectively, consider the following tips:
-- Apply the SSRT shader to the desired objects in your scene by selecting them and assigning the "Principled BSDF SSRT" shader.
+- Apply the SSRT shader to the desired objects in your scene by selecting them and assigning the "Principled BSDF SSRT" node group.
 - Adjust the shader settings, such as roughness and metallic values, to achieve the desired appearance of your materials.
 - Experiment with different lighting setups and environment maps to enhance the realism of your scene.
 - Keep in mind that the SSRT shader relies on screen space data, so objects that are not visible on the screen might not contribute to the lighting and reflections accurately.
