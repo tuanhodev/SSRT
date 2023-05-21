@@ -33,4 +33,3 @@ Special thanks to the developers and contributors of [Blender](https://www.blend
 For more information on using the SSRT shader and advanced rendering techniques in Blender, you may find the following resources helpful:
 - [Blender Documentation](https://docs.blender.org/manual/en/latest/)
 - [Blender Artists Community](https://blenderartists.org/)
-- [Blender Stack Exchange](https://blender.stackexchange.com/)
