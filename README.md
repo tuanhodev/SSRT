@@ -27,7 +27,7 @@ Contributions to the SSRT shader are welcome! If you have ideas for improvements
 This project is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 ## Acknowledgments
-Special thanks to the developers and contributors of Blender and the Eevee render engine for providing a powerful and flexible platform for real-time rendering.
+Special thanks to the developers and contributors of [Blender](https://www.blender.org/) and the Eevee render engine for providing a powerful and flexible platform for real-time rendering.
 
 ## Additional Resources
 For more information on using the SSRT shader and advanced rendering techniques in Blender, you may find the following resources helpful:
